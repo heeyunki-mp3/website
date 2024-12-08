@@ -860,3 +860,25 @@
   color: blue;
   text-decoration: underline;
 }
+.linklink {
+  color: blue;
+}
+
+div.scroll-container {
+  background-color: #faf1ec;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+
+}
+
+div.scroll-container img {
+  padding: 10px;
+  display:inline;
+  width:80%;
+}
+div.scroll-container video {
+  padding: 10px;
+  display:inline;
+  width:80%;
+}
